@@ -1,0 +1,14 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+*.egg-info/
+dist/
+build/
+*.log
+*.sqlite3
+*.png
+*.mp3
